@@ -1,0 +1,56 @@
+baseURL: http://localhost:1313/
+languageCode: en-us
+title: Thomas Bolf
+theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+assets: 
+  - disableHLJS: true
+
+
+params:
+  env: production
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: Thomas Bolf
+    subtitle: Mathematics and Computer Science Student
+    imageUrl: "image.png"
+    imageTitle: Me!
+    buttons:
+      - name: My Work
+        url: projects/
+      - name: Resume
+        url: resume/
+      - name: Coursework
+        url: coursework/
+
+
+  socialIcons:
+    - name: github
+      url: https://github.com/thomasbolf
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/thomas-bolf-5a54a6259/
+    - name: goodreads
+      url: https://www.goodreads.com/user/show/175463450-thomas-bolf
+
+menu:
+  main:
+    - identifier: Home
+      name: U+1F415
+      url: /dog
+      weight: 10
+
+
+
+# menu:
+#   main:
+#     - identifer: Home
+#       name: Home
+#       url: /
+#       weight: 10
