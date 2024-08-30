@@ -7,7 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>My post | Thomas Bolf</title>
 <meta name="keywords" content="">
-<meta name="description" content="Some post description">
+<meta name="description" content="I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/notebooks/posts/post-a/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
@@ -59,15 +59,18 @@
   
 
 <meta property="og:title" content="My post" />
-<meta property="og:description" content="Some post description" />
+<meta property="og:description" content="I wanted to start integrating jupyter notebooks into github and this website, so I started with this post." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/notebooks/posts/post-a/" /><meta property="article:section" content="notebooks" />
+<meta property="og:url" content="http://localhost:1313/notebooks/posts/post-a/" />
+<meta property="og:image" content="http://localhost:1313/post-a/serialized/2-1.png" />
+<meta property="article:section" content="notebooks" />
 
 
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/post-a/serialized/2-1.png" />
 <meta name="twitter:title" content="My post"/>
-<meta name="twitter:description" content="Some post description"/>
+<meta name="twitter:description" content="I wanted to start integrating jupyter notebooks into github and this website, so I started with this post."/>
 
 
 <script type="application/ld+json">
@@ -96,14 +99,14 @@
   "@type": "BlogPosting",
   "headline": "My post",
   "name": "My post",
-  "description": "Some post description",
+  "description": "I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.",
   "keywords": [
     
   ],
-  "articleBody": "x = 21 y = 2 result = x * y print(f\"Result is: {result}\") Console output (1/1):\nResult is: 42 ",
-  "wordCount" : "20",
+  "articleBody": "Here, I compute the mendelbrot set. Source: https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html\nimport numpy as np import matplotlib.pyplot as plt from numpy import newaxis def compute_mandelbrot(N_max, some_threshold, nx, ny): # A grid of c-values x = np.linspace(-2, 1, nx) y = np.linspace(-1.5, 1.5, ny) c = x[:,newaxis] + 1j*y[newaxis,:] # Mandelbrot iteration z = c for j in range(N_max): z = z**2 + c mandelbrot_set = (abs(z) \u003c some_threshold) return mandelbrot_set mandelbrot_set = compute_mandelbrot(50, 50., 601, 401) plt.imshow(mandelbrot_set.T, extent=[-2, 1, -1.5, 1.5]) plt.gray() plt.show() Console output (1/2):\n/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: overflow encountered in square z = z**2 + c /var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: invalid value encountered in square z = z**2 + c Console output (2/2):\n",
+  "wordCount" : "109",
   "inLanguage": "en",
-  "datePublished": "0001-01-01T00:00:00Z",
+  "image": "http://localhost:1313/post-a/serialized/2-1.png","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -178,21 +181,48 @@
       My post
     </h1>
     <div class="post-description">
-      Some post description
+      I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.
     </div>
     <div class="post-meta">
 
 </div>
   </header> 
-  <div class="post-content"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>x <span style="color:#f92672">=</span> <span style="color:#ae81ff">21</span>
-</span></span><span style="display:flex;"><span>y <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span>
+  <div class="post-content"><p>Here, I compute the mendelbrot set. Source: <a href="https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html">https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> numpy <span style="color:#66d9ef">as</span> np
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#66d9ef">as</span> plt
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> numpy <span style="color:#f92672">import</span> newaxis
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>result <span style="color:#f92672">=</span> x <span style="color:#f92672">*</span> y
-</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;Result is: </span><span style="color:#e6db74">{</span>result<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">compute_mandelbrot</span>(N_max, some_threshold, nx, ny):
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># A grid of c-values</span>
+</span></span><span style="display:flex;"><span>    x <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>linspace(<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">1</span>, nx)
+</span></span><span style="display:flex;"><span>    y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>linspace(<span style="color:#f92672">-</span><span style="color:#ae81ff">1.5</span>, <span style="color:#ae81ff">1.5</span>, ny)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    c <span style="color:#f92672">=</span> x[:,newaxis] <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>j<span style="color:#f92672">*</span>y[newaxis,:]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># Mandelbrot iteration</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    z <span style="color:#f92672">=</span> c
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> j <span style="color:#f92672">in</span> range(N_max):
+</span></span><span style="display:flex;"><span>        z <span style="color:#f92672">=</span> z<span style="color:#f92672">**</span><span style="color:#ae81ff">2</span> <span style="color:#f92672">+</span> c
+</span></span><span style="display:flex;"><span>    mandelbrot_set <span style="color:#f92672">=</span> (abs(z) <span style="color:#f92672">&lt;</span> some_threshold)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> mandelbrot_set
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>mandelbrot_set <span style="color:#f92672">=</span> compute_mandelbrot(<span style="color:#ae81ff">50</span>, <span style="color:#ae81ff">50.</span>, <span style="color:#ae81ff">601</span>, <span style="color:#ae81ff">401</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>imshow(mandelbrot_set<span style="color:#f92672">.</span>T, extent<span style="color:#f92672">=</span>[<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">1</span>, <span style="color:#f92672">-</span><span style="color:#ae81ff">1.5</span>, <span style="color:#ae81ff">1.5</span>])
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>gray()
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>show()
 </span></span></code></pre></div><!-- #region -->
-<p><strong>Console output (1/1):</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>Result is: 42
-</span></span></code></pre></div><!-- #endregion -->
+<p><strong>Console output (1/2):</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: overflow encountered in square
+</span></span><span style="display:flex;"><span>  z = z**2 + c
+</span></span><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: invalid value encountered in square
+</span></span><span style="display:flex;"><span>  z = z**2 + c
+</span></span></code></pre></div><p><strong>Console output (2/2):</strong></p>
+<p><img loading="lazy" src="../../../post-a/serialized/2-1.png" alt="2-1"  />
+</p>
+<!-- #endregion -->
 
   </div>
 
