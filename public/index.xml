@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thomas Bolf</title>
+    <title>Thomas&#39; Portfolio</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Thomas Bolf</description>
+    <description>Recent content on Thomas&#39; Portfolio</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
@@ -21,6 +21,21 @@
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/projects1/</guid>
       <description>This project created a discord bot that sends a theorem every day to a discord channel.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/party/party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/party/party/</guid>
+      <description>&lt;!DOCTYPE html&gt; Crazy Emoji Catcher Game Welcome to the Crazy Emoji Catcher Game! Click on the moving emoji to catch it!
+🤪 Start Game </description>
+    </item>
+    <item>
+      <title>JP Morgan Chase &amp; Co. Internship Experience</title>
+      <link>http://localhost:1313/projects/chase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/chase/</guid>
+      <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>My post</title>

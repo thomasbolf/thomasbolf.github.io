@@ -14,11 +14,17 @@
     <loc>http://localhost:1313/projects/projects1/</loc>
     <lastmod>2024-07-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/party/party/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/chase/</loc>
   </url><url>
     <loc>http://localhost:1313/notebooks/posts/post-a/</loc>
   </url><url>
     <loc>http://localhost:1313/notebooks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/party/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>

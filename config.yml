@@ -1,6 +1,6 @@
 baseURL: http://localhost:1313/
 languageCode: en-us
-title: Thomas Bolf
+title: Thomas' Portfolio
 theme: ["PaperMod"]
 
 markup:
@@ -46,6 +46,10 @@ menu:
     - identifier: Home
       name: Fun Fact
       url: /dog
+      weight: 10
+    - identifier: party
+      name: 🎉
+      url: /party
       weight: 10
 
 
