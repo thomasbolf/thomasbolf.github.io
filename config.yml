@@ -21,6 +21,8 @@ params:
     title: Thomas Bolf
     subtitle: Mathematics and Computer Science Student
     imageUrl: "image.png"
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: Me!
     buttons:
       - name: My Work

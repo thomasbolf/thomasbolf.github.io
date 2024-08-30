@@ -147,7 +147,7 @@
   </header>
   <div class="entry-content">
     <p>Here, I compute the mendelbrot set. Source: https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html
-import numpy as np import matplotlib.pyplot as plt from numpy import newaxis def compute_mandelbrot(N_max, some_threshold, nx, ny): # A grid of c-values x = np.linspace(-2, 1, nx) y = np.linspace(-1.5, 1.5, ny) c = x[:,newaxis] &#43; 1j*y[newaxis,:] # Mandelbrot iteration z = c for j in range(N_max): z = z**2 &#43; c mandelbrot_set = (abs(z) &lt; some_threshold) return mandelbrot_set mandelbrot_set = compute_mandelbrot(50, 50....</p>
+import numpy as np import matplotlib.pyplot as plt from numpy import newaxis def compute_mandelbrot(N_max, some_threshold, nx, ny): # A grid of c-values x = np.linspace(-3, 1, nx) y = np.linspace(-1.5, 1.5, ny) c = x[:,newaxis] &#43; 1j*y[newaxis,:] # Mandelbrot iteration z = c for j in range(N_max): z = z**2 &#43; c mandelbrot_set = (abs(z) &lt; some_threshold) return mandelbrot_set mandelbrot_set = compute_mandelbrot(50, 50....</p>
   </div>
   <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to My post" href="http://localhost:1313/notebooks/posts/post-a/"></a>

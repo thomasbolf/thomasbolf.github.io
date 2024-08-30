@@ -29,7 +29,7 @@ from numpy import newaxis
 
 def compute_mandelbrot(N_max, some_threshold, nx, ny):
     # A grid of c-values
-    x = np.linspace(-2, 1, nx)
+    x = np.linspace(-3, 1, nx)
     y = np.linspace(-1.5, 1.5, ny)
 
     c = x[:,newaxis] + 1j*y[newaxis,:]
@@ -56,9 +56,9 @@ plt.show()
 **Console output (1/2):**
 
 ```txt
-/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: overflow encountered in square
+/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: overflow encountered in square
   z = z**2 + c
-/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: invalid value encountered in square
+/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: invalid value encountered in square
   z = z**2 + c
 ```
 

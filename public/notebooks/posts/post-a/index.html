@@ -103,7 +103,7 @@
   "keywords": [
     
   ],
-  "articleBody": "Here, I compute the mendelbrot set. Source: https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html\nimport numpy as np import matplotlib.pyplot as plt from numpy import newaxis def compute_mandelbrot(N_max, some_threshold, nx, ny): # A grid of c-values x = np.linspace(-2, 1, nx) y = np.linspace(-1.5, 1.5, ny) c = x[:,newaxis] + 1j*y[newaxis,:] # Mandelbrot iteration z = c for j in range(N_max): z = z**2 + c mandelbrot_set = (abs(z) \u003c some_threshold) return mandelbrot_set mandelbrot_set = compute_mandelbrot(50, 50., 601, 401) plt.imshow(mandelbrot_set.T, extent=[-2, 1, -1.5, 1.5]) plt.gray() plt.show() Console output (1/2):\n/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: overflow encountered in square z = z**2 + c /var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: invalid value encountered in square z = z**2 + c Console output (2/2):\n",
+  "articleBody": "Here, I compute the mendelbrot set. Source: https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html\nimport numpy as np import matplotlib.pyplot as plt from numpy import newaxis def compute_mandelbrot(N_max, some_threshold, nx, ny): # A grid of c-values x = np.linspace(-3, 1, nx) y = np.linspace(-1.5, 1.5, ny) c = x[:,newaxis] + 1j*y[newaxis,:] # Mandelbrot iteration z = c for j in range(N_max): z = z**2 + c mandelbrot_set = (abs(z) \u003c some_threshold) return mandelbrot_set mandelbrot_set = compute_mandelbrot(50, 50., 601, 401) plt.imshow(mandelbrot_set.T, extent=[-2, 1, -1.5, 1.5]) plt.gray() plt.show() Console output (1/2):\n/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: overflow encountered in square z = z**2 + c /var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: invalid value encountered in square z = z**2 + c Console output (2/2):\n",
   "wordCount" : "109",
   "inLanguage": "en",
   "image": "http://localhost:1313/post-a/serialized/2-1.png","datePublished": "0001-01-01T00:00:00Z",
@@ -194,7 +194,7 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">compute_mandelbrot</span>(N_max, some_threshold, nx, ny):
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e"># A grid of c-values</span>
-</span></span><span style="display:flex;"><span>    x <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>linspace(<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">1</span>, nx)
+</span></span><span style="display:flex;"><span>    x <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>linspace(<span style="color:#f92672">-</span><span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">1</span>, nx)
 </span></span><span style="display:flex;"><span>    y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>linspace(<span style="color:#f92672">-</span><span style="color:#ae81ff">1.5</span>, <span style="color:#ae81ff">1.5</span>, ny)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>    c <span style="color:#f92672">=</span> x[:,newaxis] <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>j<span style="color:#f92672">*</span>y[newaxis,:]
@@ -215,9 +215,9 @@
 </span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>show()
 </span></span></code></pre></div><!-- #region -->
 <p><strong>Console output (1/2):</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: overflow encountered in square
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: overflow encountered in square
 </span></span><span style="display:flex;"><span>  z = z**2 + c
-</span></span><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_29120/2830912995.py:16: RuntimeWarning: invalid value encountered in square
+</span></span><span style="display:flex;"><span>/var/folders/_w/fmxgjrxn3d7c7y4jpy6r65d00000gn/T/ipykernel_39706/3854838847.py:16: RuntimeWarning: invalid value encountered in square
 </span></span><span style="display:flex;"><span>  z = z**2 + c
 </span></span></code></pre></div><p><strong>Console output (2/2):</strong></p>
 <p><img loading="lazy" src="../../../post-a/serialized/2-1.png" alt="2-1"  />
