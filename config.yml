@@ -25,8 +25,8 @@ params:
     buttons:
       - name: My Work
         url: projects/
-      - name: Resume
-        url: resume/
+      - name: Notebooks
+        url: notebooks/
       - name: Coursework
         url: coursework/
 
@@ -42,7 +42,7 @@ params:
 menu:
   main:
     - identifier: Home
-      name: U+1F415
+      name: Fun Fact
       url: /dog
       weight: 10
 
