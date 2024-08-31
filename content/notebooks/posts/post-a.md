@@ -17,7 +17,7 @@ jupyter:
     display_name: Python 3
     language: python
     name: python3
-title: My post
+title: Demo Notebook
 ---
 
 Here, I compute the mendelbrot set. Source: https://scipy-lectures.org/intro/numpy/auto_examples/plot_mandelbrot.html 
