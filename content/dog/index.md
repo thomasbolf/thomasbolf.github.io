@@ -1,5 +1,5 @@
 ---
-title: "U+1F415 is unicode for the dog emoji 🐕"
+title: "No fun fact! Here's my dog:D "
 #put small image
 cover:
     image: dogpic.png

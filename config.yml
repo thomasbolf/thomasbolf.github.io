@@ -1,5 +1,5 @@
 baseURL: http://localhost:1313/
-languageCode: en-us
+#languageCode: en-us
 title: Thomas' Portfolio
 theme: ["PaperMod"]
 
@@ -7,6 +7,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
 
 
 assets: 
@@ -25,10 +26,12 @@ params:
     imageHeight: 200
     imageTitle: Me!
     buttons:
-      - name: My Work
+      - name:  🖥️ My Work 🔨  
         url: works/
-      - name: Notebooks
+      - name: 📔 Notebooks ✏️ 
         url: notebooks/
+      - name: 📸 Gallery 📸 
+        url: gallery/
 
 
   socialIcons:
@@ -49,6 +52,8 @@ menu:
       name: 🎉
       url: /party/party
       weight: 10
+  ##make cover images smaller
+
 
 
 
