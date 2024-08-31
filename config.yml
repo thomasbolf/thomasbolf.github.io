@@ -26,11 +26,9 @@ params:
     imageTitle: Me!
     buttons:
       - name: My Work
-        url: projects/
+        url: works/
       - name: Notebooks
         url: notebooks/
-      - name: Coursework
-        url: coursework/
 
 
   socialIcons:
@@ -49,7 +47,7 @@ menu:
       weight: 10
     - identifier: party
       name: 🎉
-      url: /party
+      url: /party/party
       weight: 10
 
 
