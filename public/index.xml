@@ -23,19 +23,11 @@
       <description>This project created a discord bot that sends a theorem every day to a discord channel.</description>
     </item>
     <item>
-      <title></title>
+      <title>Gallery</title>
       <link>http://localhost:1313/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gallery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/party/party/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/party/party/</guid>
-      <description>&lt;!DOCTYPE html&gt; Crazy Emoji Catcher Game Welcome to the Crazy Emoji Catcher Game! Click on the moving emoji to catch it!
-🤪 Start Game </description>
+      <description> </description>
     </item>
     <item>
       <title>Demo Notebook</title>

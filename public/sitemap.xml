@@ -17,7 +17,8 @@
     <loc>http://localhost:1313/works/projects/project1/</loc>
     <lastmod>2024-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/party/party/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -28,8 +29,6 @@
     <loc>http://localhost:1313/dog/</loc>
   </url><url>
     <loc>http://localhost:1313/notebooks/</loc>
-  </url><url>
-    <loc>http://localhost:1313/party/</loc>
   </url><url>
     <loc>http://localhost:1313/works/chase/experience2/</loc>
   </url><url>
