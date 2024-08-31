@@ -25,4 +25,4 @@ As a member of the inaugural internship cohort in the Austin office, I had the o
   
 - **Log Extraction and Analysis:** Utilized Lua and Golang to extract and process logs from an API Gateway (Kong), enhancing system monitoring and performance analysis.
   
-- **Analytics Dashboard Development:** Developed an interactive analytics dashboard for software performance using React, Highcharts, and JavaScript/TypeScript, providing actionable insights to the team.
+- **Analytics Dashboard Development:** Developed an interactive analytics dashboard for software performance using React, Highcharts, and JavaScript/TypeScript, providing actionable insights to the team and end-users.
