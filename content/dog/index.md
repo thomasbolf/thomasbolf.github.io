@@ -1,5 +1,5 @@
 ---
-title: "No fun fact! Here's my dog:D "
+title: "N fun fact! Here's my dog:D "
 #put small image
 cover:
     image: dogpic.png

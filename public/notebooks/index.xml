@@ -14,5 +14,13 @@
       <guid>http://localhost:1313/notebooks/posts/post-a/</guid>
       <description>I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.</description>
     </item>
+    <item>
+      <title>Testing this method </title>
+      <link>http://localhost:1313/notebooks/post/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notebooks/post/post/</guid>
+      <description>Here is an example of how you can use the ipynb shortcode in your markdown:
+Replace &amp;quot;path/to/notebook.ipynb&amp;quot; with the actual path to your notebook file.</description>
+    </item>
   </channel>
 </rss>
