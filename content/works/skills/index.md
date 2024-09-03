@@ -10,7 +10,7 @@ summary: " "
 <div class="skills-section"> 
     <h2>Front-end</h2> 
     <div class="skills-grid"> 
-        <div class="skill-item">HTML/CSS</div> 
+        <div class="skill-item" >HTML/CSS</div> 
         <div class="skill-item">JavaScript</div> 
         <div class="skill-item">React</div> 
         <div class="skill-item">Node.js</div> 
@@ -47,6 +47,7 @@ summary: " "
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
+    /* background-color: var(--theme); */
     /* background-color: #fff; */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
@@ -61,6 +62,7 @@ summary: " "
     gap: 20px;
 }
 .skill-item {
+    box-shadow:0 2px 8px rgba(0, 0, 0, 0.1);
     background-color: var(--entry);
     color: var(--content);
     padding: 15px;
@@ -71,5 +73,6 @@ summary: " "
 .skill-item:hover {
     background-color: #005bb5;
 }
+
 </style>
 
