@@ -23,6 +23,41 @@
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
+  .skill-item:hover .skill-item-text {
+    visibility: visible;
+  }
+  /* Tooltip text */
+  .skill-item .skill-item-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+  
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+  }
+  .skill-item:hover .skill-item-text {
+    visibility: visible;
+  }
+
+  .skill-item .skill-item-text::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+  }
+
+
+
+
   .skill-item:hover {
     background-color: #005bb5;
   } 
