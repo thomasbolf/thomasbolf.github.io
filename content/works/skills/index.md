@@ -10,11 +10,18 @@ summary: " "
 <div class="skills-section"> 
     <h2>Front-end</h2> 
     <div class="skills-grid"> 
-        <div class="skill-item" >HTML/CSS</div> 
-        <div class="skill-item">JavaScript</div> 
-        <div class="skill-item">React</div> 
-        <div class="skill-item">Node.js</div> 
-    </div>
+        <div class="skill-item" >HTML/CSS
+        <span class="skill-item-text">I have used HTML/CSS both in industry and in school. This part of my website was actually written by me from scratch in HTML/CSS. I wrote a portfolio using the raw HTML/CSS/Js tech stack, but this current site was using Hugo with custom modifications and is admittedly an improvement.
+            </span> </div> 
+        <div class="skill-item">JavaScript
+        <span class="skill-item-text">I learned JavaScript throughout my software engineering class and wrote many apps using JavaScript throughout my industry experience.
+            </span></div> 
+        <div class="skill-item">React
+                <span class="skill-item-text">I was going to write this website as a React App, but wanted to go for a simpler route. I have contributed to apps for school (a restraunt POS system), and in industry (an analytics dashboard) using React. 
+            </span></div> 
+        <!-- <div class="skill-item">Node.js</div> 
+
+   <!-- > </div> -->
 </div>
 
 
@@ -60,12 +67,36 @@ summary: " "
 <div class="skills-section"> 
     <h2>Developer Technologies</h2> 
     <div class="skills-grid"> 
-        <div class="skill-item">AWS</div> 
-        <div class="skill-item">Terraform</div>
-        <div class="skill-item">Docker</div>
-        <div class="skill-item">Git</div>  
-        <div class="skill-item">Linux</div> 
-        <div class="skill-item">Jenkins</div>
+        <div class="skill-item">AWS 
+            <span class="skill-item-text">
+            A significant amount of software I have written as ended up running in the cloud.. or *a* cloud. I have the AWS Cloud Practitioner Certification and am interested in getting another certification if I have the time.
+            </span> 
+            </div>
+        <div class="skill-item">Terraform
+        <span class="skill-item-text">
+            I used Terraform plenty throughout my industry experience.
+            </span> 
+            </div>
+        <div class="skill-item">Docker
+        <span class="skill-item-text">
+        Docker is a technology I have used here in there as it comes up in my career. I want to learn it more in the future, but can use it's basic functionality as it shows up.
+            </span>
+             </div>
+        <div class="skill-item">Git 
+        <span class="skill-item-text">
+            Git is a skill that I made a point to learn in-depth recently as it seems very useful in any type of software engineering setting.
+            </span> 
+        </div>
+        <div class="skill-item">Linux
+        <span class="skill-item-text">
+            Linux is a technology that has popped up constantly in my career as it seems to be a favorite as a software engineering operating system.
+            </span> 
+            </div> 
+        <div class="skill-item">Jenkins
+        <span class="skill-item-text">
+            I used Jenkins plenty throughout industry experience. For those who are looking at this and don't know what Jenkins is, it's a CI/CD pipeline that is meant for integrating and deploying safe code in larger environments/organizations.
+            </span> 
+            </div>
     </div> 
 </div>
 
