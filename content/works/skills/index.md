@@ -21,14 +21,39 @@ summary: " "
 <div class="skills-section"> 
     <h2>Back-end</h2> 
     <div class="skills-grid"> 
-        <div class="skill-item"><span class="skill-item-text">I work on Python for data science projects and regularly when I want to write something in, maybe pseudo-pseudo code :D</span> Python 
+        <div class="skill-item">
+            <span class="skill-item-text">I work on Python for data science projects and regularly when I want to write something in, maybe pseudo-pseudo code :D
+            </span> 
+            Python 
         <!-- <span class="skill-item-text">Tooltip text</span> -->
         </div> 
-        <div class="skill-item">Go</div>
-        <div class="skill-item">C/C++</div>  
-        <div class="skill-item">Java</div> 
-        <div class="skill-item">Lua</div> 
-        <div class="skill-item">SQL</div> 
+        <div class="skill-item">
+            <span class="skill-item-text">
+                I looked at a lot of Go code throughout industry experience and took some time to learn it on my own. I plan on writing my discord file system in Go. 
+            </span> 
+            Go
+        </div>
+        <div class="skill-item">
+            <span class="skill-item-text">
+                Texas A&M teaches many of beginner programming classes (strangely enough) starting from C/C++. As a matter of fact, C++ is the first programming langauge I learned. The creator of C++ taught at A&M.
+            </span> 
+            C/C++
+        </div>  
+        <div class="skill-item">
+            <span class="skill-item-text">
+                I started learning Java in industry, but it was also introduced in class at various points.
+            </span> 
+            Java</div> 
+        <div class="skill-item">
+            <span class="skill-item-text">
+            I learned Lua when creating plugins for industry services. It seems to be a language popular for "modding". 
+            </span> 
+        Lua</div> 
+        <div class="skill-item">SQL
+            <span class="skill-item-text">
+            I learned SQL in industry and in school and used it in both a web-dev setting and in a data analytics environment
+            </span> 
+        </div> 
     </div> 
 </div>
 
@@ -85,7 +110,8 @@ summary: " "
  /* Tooltip text */
   .skill-item .skill-item-text {
     visibility: hidden;
-    min-width: 120px;
+    min-width: 100%;
+    min-height: 100%
     width: auto;
     height: auto;
   /* min-width: 120px; */
