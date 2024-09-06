@@ -30,6 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/notebooks/</loc>
   </url><url>
+    <loc>http://localhost:1313/works/publication/</loc>
+  </url><url>
     <loc>http://localhost:1313/works/skills/</loc>
   </url><url>
     <loc>http://localhost:1313/works/chase/experience2/</loc>
