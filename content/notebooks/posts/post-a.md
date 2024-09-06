@@ -1,6 +1,8 @@
 ---
 description: I wanted to start integrating jupyter notebooks into github and this
   website, so I started with this post.
+summary: I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.
+
 images:
 - ../../../post-a/serialized/2-1.png
 jupyblog:
