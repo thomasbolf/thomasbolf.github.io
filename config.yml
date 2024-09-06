@@ -47,6 +47,8 @@ params:
       url: https://www.linkedin.com/in/thomas-bolf-5a54a6259/
     - name: goodreads
       url: https://www.goodreads.com/user/show/175463450-thomas-bolf
+    - name: strava
+      url: https://www.strava.com/athletes/131990767
 
 menu:
   main:
