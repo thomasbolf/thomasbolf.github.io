@@ -38,6 +38,9 @@ params:
         url: notebooks/
       - name: 📸 Gallery 📸 
         url: gallery/
+  homeInfoParams:
+      Title: "Hi there \U0001F44B"
+      Content: Welcome to my blog! I'm a student at the University of Minnesota studying Mathematics and Computer Science. I'm passionate about learning and sharing knowledge. I'm always looking for new opportunities to learn and grow. I'm currently working on a few projects, so stay tuned for updates! Feel free to reach out to me on social media or via email. I'd love to hear from you!
 
 
   socialIcons:
