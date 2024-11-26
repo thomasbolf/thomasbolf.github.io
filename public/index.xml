@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thomas&#39; Portfolio</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Thomas&#39; Portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord File System</title>
-      <link>http://localhost:1313/works/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/projects/project2/</guid>
-      <description>This project is an attempt to create a file system and file management system in a discord server using a discord bot, still a work in progress.</description>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description>This project is an attempt to create a file system and file management system in a discord server using a discord bot</description>
     </item>
     <item>
       <title>Theorem of the Day</title>
-      <link>http://localhost:1313/works/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>This project created a discord bot that sends a theorem every day to a discord channel.</description>
     </item>
     <item>
@@ -45,23 +45,51 @@
     </item>
     <item>
       <title>Research Overview</title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Research Overview</title>
       <link>http://localhost:1313/works/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/publication/</guid>
-      <description></description>
+      <description> </description>
+    </item>
+    <item>
+      <title>Skill Overview</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description> </description>
     </item>
     <item>
       <title>Skill Overview</title>
       <link>http://localhost:1313/works/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/skills/</guid>
-      <description></description>
+      <description> </description>
+    </item>
+    <item>
+      <title>Summer 2023 Internship | Plano, TX</title>
+      <link>http://localhost:1313/chase/experience2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chase/experience2/</guid>
+      <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>Summer 2023 Internship | Plano, TX</title>
       <link>http://localhost:1313/works/chase/experience2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/chase/experience2/</guid>
+      <description>This internship experience was with the JPMC SEP Program</description>
+    </item>
+    <item>
+      <title>Summer 2024 Internship | Austin, TX</title>
+      <link>http://localhost:1313/chase/experience1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chase/experience1/</guid>
       <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
@@ -76,7 +104,8 @@
       <link>http://localhost:1313/notebooks/post/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notebooks/post/post/</guid>
-      <description>Here is an example of how you can use the ipynb shortcode in your markdown:&#xA;Replace &amp;quot;path/to/notebook.ipynb&amp;quot; with the actual path to your notebook file.</description>
+      <description>Here is an example of how you can use the ipynb shortcode in your markdown:
+Replace &amp;quot;path/to/notebook.ipynb&amp;quot; with the actual path to your notebook file.</description>
     </item>
   </channel>
 </rss>

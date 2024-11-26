@@ -27,17 +27,11 @@ params:
     enabled: true
     title: Thomas Bolf
     subtitle: Mathematics and Computer Science Student
-    imageUrl: "image.png"
+    imageUrl: "images/image.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Me!
-    buttons:
-      - name:  🖥️ My Work 🔨  
-        url: works/
-      - name: 📔 Notebooks ✏️ 
-        url: notebooks/
-      - name: 📸 Gallery 📸 
-        url: gallery/
+
   homeInfoParams:
       Title: "Hi there \U0001F44B"
       Content: Welcome to my blog! I'm a student at the University of Minnesota studying Mathematics and Computer Science. I'm passionate about learning and sharing knowledge. I'm always looking for new opportunities to learn and grow. I'm currently working on a few projects, so stay tuned for updates! Feel free to reach out to me on social media or via email. I'd love to hear from you!
@@ -59,8 +53,38 @@ menu:
       name: 🎉
       url: /static/party.html
       weight: 10
-  ##make cover images smaller
 
+
+    - identifier: gallery
+      name: Gallery 
+      url: gallery/
+      weight: 25
+    - identifier: chase
+      name: Internship Experience
+      url: chase/
+      weight: 30
+    - identifier: publication
+      name: Research
+      url: publication/
+      weight: 35
+    - identifier: skills
+      name: Skills
+      url: skills/
+      weight: 40
+    - identifier: projects
+      name: Projects
+      url: projects/
+      weight: 45
+
+
+  ##make cover images smaller
+    # buttons:
+    #   - name:  🖥️ My Work 🔨  
+    #     url: works/
+    #   - name: 📔 Notebooks ✏️ 
+    #     url: notebooks/
+    #   - name: 📸 Gallery 📸 
+    #     url: gallery/
 
 
 
