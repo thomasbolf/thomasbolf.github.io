@@ -51,7 +51,7 @@ menu:
   main:
     - identifier: party
       name: 🎉
-      url: /static/party.html
+      url: party.html
       weight: 10
 
 
