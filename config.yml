@@ -60,7 +60,7 @@ menu:
       url: gallery/
       weight: 25
     - identifier: chase
-      name: Internship Experience
+      name: Work
       url: chase/
       weight: 30
     - identifier: publication
