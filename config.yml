@@ -32,20 +32,16 @@ params:
     imageHeight: 200
     imageTitle: Me!
 
-  homeInfoParams:
-      Title: "Hi there \U0001F44B"
-      Content: Welcome to my blog! I'm a student at the University of Minnesota studying Mathematics and Computer Science. I'm passionate about learning and sharing knowledge. I'm always looking for new opportunities to learn and grow. I'm currently working on a few projects, so stay tuned for updates! Feel free to reach out to me on social media or via email. I'd love to hear from you!
-
 
   socialIcons:
     - name: github
-      url: https://github.com/thomasbolf
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/thomas-bolf-5a54a6259/
+      url: "https://github.com/thomasbolf"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/thomas-bolf-5a54a6259/"
     - name: goodreads
-      url: https://www.goodreads.com/user/show/175463450-thomas-bolf
+      url: "https://www.goodreads.com/user/show/175463450-thomas-bolf"
     - name: strava
-      url: https://www.strava.com/athletes/131990767
+      url: "https://www.strava.com/athletes/131990767"
 
 menu:
   main:
@@ -53,7 +49,10 @@ menu:
       name: 🎉
       url: party.html
       weight: 10
-
+    - identifier: Resume
+      name: Resume
+      url: bolfresume.pdf
+      weight: 15
 
     - identifier: gallery
       name: Gallery 
