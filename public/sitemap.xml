@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50253/projects/project2/</loc>
+    <loc>http://localhost:1313/projects/project2/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/projects/project3/</loc>
+    <loc>http://localhost:1313/projects/project3/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/projects/project1/</loc>
+    <loc>http://localhost:1313/projects/project1/</loc>
     <lastmod>2024-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50253/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:50253/notebooks/posts/post-a/</loc>
+    <loc>http://localhost:1313/notebooks/posts/post-a/</loc>
   </url><url>
-    <loc>http://localhost:50253/chase/</loc>
+    <loc>http://localhost:1313/chase/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/chase/</loc>
+    <loc>http://localhost:1313/works/chase/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/</loc>
+    <loc>http://localhost:1313/works/</loc>
   </url><url>
-    <loc>http://localhost:50253/dog/</loc>
+    <loc>http://localhost:1313/dog/</loc>
   </url><url>
-    <loc>http://localhost:50253/notebooks/</loc>
+    <loc>http://localhost:1313/notebooks/</loc>
   </url><url>
-    <loc>http://localhost:50253/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/publication/</loc>
+    <loc>http://localhost:1313/works/publication/</loc>
   </url><url>
-    <loc>http://localhost:50253/skills/</loc>
+    <loc>http://localhost:1313/skills/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/skills/</loc>
+    <loc>http://localhost:1313/works/skills/</loc>
   </url><url>
-    <loc>http://localhost:50253/chase/experience2/</loc>
+    <loc>http://localhost:1313/chase/experience2/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/chase/experience2/</loc>
+    <loc>http://localhost:1313/works/chase/experience2/</loc>
   </url><url>
-    <loc>http://localhost:50253/chase/experience1/</loc>
+    <loc>http://localhost:1313/chase/experience1/</loc>
   </url><url>
-    <loc>http://localhost:50253/works/chase/experience1/</loc>
+    <loc>http://localhost:1313/works/chase/experience1/</loc>
   </url><url>
-    <loc>http://localhost:50253/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:50253/notebooks/post/post/</loc>
+    <loc>http://localhost:1313/notebooks/post/post/</loc>
   </url>
 </urlset>

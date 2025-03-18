@@ -2,117 +2,444 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thomas&#39; Portfolio</title>
-    <link>http://localhost:50253/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Thomas&#39; Portfolio</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:50253/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord File System</title>
-      <link>http://localhost:50253/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project2/</guid>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>This project is an attempt to create a file system and file management system in a discord server using a discord bot</description>
     </item>
     <item>
       <title>Visualizing PetFinder</title>
-      <link>http://localhost:50253/projects/project3/</link>
+      <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project3/</guid>
+      <guid>http://localhost:1313/projects/project3/</guid>
       <description>This project is a data visualization web application for pets in Texas found on petfinder.com</description>
     </item>
     <item>
       <title>Theorem of the Day</title>
-      <link>http://localhost:50253/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>This project created a discord bot that sends a theorem every day to a discord channel.</description>
     </item>
     <item>
       <title>Gallery</title>
-      <link>http://localhost:50253/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/gallery/</guid>
-      <description> </description>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>&lt;style&gt;
+	
+
+	
+&lt;/style&gt;
+
+
+
+
+
+&lt;div id=&#34;gallery-665288c8761d48eb3366c37954243edc-0-wrapper&#34; class=&#34;gallery-wrapper&#34;&gt;
+&lt;div id=&#34;gallery-665288c8761d48eb3366c37954243edc-0&#34; class=&#34;justified-gallery&#34;&gt;
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;http://localhost:1313/images/berries.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;450&#34; height=&#34;600&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIACAAGAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AKz6S&amp;#43;o3c42SpZQRmVSzfM67sKM8gtnjn3pYtLjOszw2zh4Y32xvDxx3&amp;#43;v496s3c6m5NpPkJgyR/LlB3bcfXrjtz71jW2tNpTyPawRyKThZM9efT1NcMvfg2iEny3ub4srZb1YkuvJZJAqrI/JJ9uPWtT&amp;#43;yp/wDn5H/fI/xrm2isdQS4vbWIx4KsR/tAYOKqbZP7kv5//XrlbtoZPUt63Kn2x0RSiow2sDgnHUfSqV7BDJFFtCIUHzMpx24A7cYqzeIrSRh7pJVWUF3jw3y4HPH45HWkdZLkrH5oEEcQC5GCy4/LPJq9XbyKbaRXsVivLVI/PaL5SxIGOhxx0zyam/smH/oKTfl/9eqs2mJPqcdrbNk26KysDgJ3yfU9Ku/2RqP/AD&amp;#43;D/v6P8KlrXRk8zWx//9k=&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;http://localhost:1313/images/berries_hu_3d9200fd97888f0c.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;http://localhost:1313/images/dogpic.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;439&#34; height=&#34;600&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIACAAFwMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AN3VZrKGymebaYVUuxIyZcdkz78Z/wD11zmp/wBnt4cbUtOuiZYJM3EQclVDZxwRgnjr6k11GuPt02e6l2q8MZlhiPIXbzk&amp;#43;vTn8h7&amp;#43;c3sepWegX13aTKbC7kRpVjhOOmckntzjj86iDRTiaUFpcajpn22CYi3OCu84wT2z/AICov7Luf&amp;#43;fpP&amp;#43;/3/wBjXQaLp7jQNOtLQAr5QkLMSQXKhmP0ySPxq9/Yuof9Mf8Avk1PN2CxB4rnZ/C94ZHDzyR4/djHTsPYfrXn&amp;#43;kPPN4K1i2a5H2eORJRblxuHPJHt0z9BXVXF759vLJMBjaRg9FFcLb2RldTHabkFzv2PwSnoTTjoN6no/hm8ntfCNismTdyK2OnyJvJB5x2I/MVe/tK&amp;#43;/wCeo/Jf/iqz7e5JT5ergcnso6D/AD61N5sv98flUsZ//9k=&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;http://localhost:1313/images/dogpic_hu_68c5ac1cd217cce3.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;http://localhost:1313/images/image.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;200&#34; height=&#34;200&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIACAAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AOt1W&amp;#43;m0/S5JLUBrl8RwAjI3npn2HX8K4u98K392Wubm&amp;#43;E10/LF84/rXU67cx22mw3MpwkU4JwM9QR/Wucj8UKbp/OZ/LGBgQHgnp0ya4/e6HbRULe8VtNtNc8OXay2UgliJ/eQ7uG/CvQ7C8S9jhnVSocjKnqpzgiuEt9dmu75DbwySRE5EewAsPxPH412GmzRNbQSwo8aSnzAsgAYZOecd6tJ9TOryp&amp;#43;6Q3aJcaTcxSZ2mMnjqCORj8RXORi2ScSSSRsqNuG1MEnqO/Stq51ay0y0ea9mREC8qSMt7AdzXntnrJs4ixiDW8&amp;#43;fJZvmMYBI2k&amp;#43;opOLtcuhNJ2Z01kbVNWAScojvnoBjJ5rsH2m6IjUKoY4A7V51a6nBOEvJQoSBgFRcAytnpXoFtNHOfMjdXUnqpzVxTtfoZ1pK9kf/Z&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;http://localhost:1313/images/image_hu_48e65c1a0066f41d.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;http://localhost:1313/images/turkey.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;450&#34; height=&#34;600&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIACAAGAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AMzV9ZbRdFhxb&amp;#43;bJNtjRd&amp;#43;ACFzk8c81lx/EKLzAIdAhLE7Rvn3D2/hFYOs&amp;#43;JH1aC3X7MsJhztAbd1x/h&amp;#43;tVNIZI2kZizOB8kY6HqST&amp;#43;X61nGNlqW3dnT2vjvUtCvGmudMSSWXLRl5CFCnsMVof8AC5dQ/wCgNa/9/GrkLuG61OaJBFjbkgdxn/IpP&amp;#43;Edvv7o/Oq0E9zL8v5FOME9q3PC2ntcXzybCwRQCPqcGsa1IZdpPIORXT&amp;#43;G7iW2ugYkhlSQ8rIP4hz2&amp;#43;n6UBGyd2dpdWOn6Qsck0HmF2&amp;#43;bYQDjH/wCqo/7V0D/n0n/If41S8R3nnzg7VWUxjcF6Zz0/LNYGD6D/AL4qCna5/9k=&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;http://localhost:1313/images/turkey_hu_409ad97b8d122e1f.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+	if (!(&#34;HSCGjQuery&#34; in window)) {
+		if (!window.jQuery) {
+			throw new Error(&#34;jQuery is not loaded, hugo-shortcode-gallery wont work without it!&#34;);
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
+	}
+
+	
+	
+	
+	
+	
+	;(function($) {
+
+		$( document ).ready(() =&gt; {
+			const gallery = $(&#34;#gallery-665288c8761d48eb3366c37954243edc-0&#34;);
+			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on(&#39;jg.complete&#39;, () =&gt; {
+				
+					
+					
+					$(() =&gt; {
+						$(&#39;.lazy&#39;).Lazy({
+							visibleOnly: true,
+							afterLoad: element =&gt; element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;})
+						});
+					});
+				
+
+				swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox(
+					$.extend({},
+						{  }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery($.extend(
+				{
+					rowHeight : &#34;150&#34;,
+					margins : &#34;5&#34;,
+					border : 0,
+					randomize :  false ,
+					waitThumbnailsLoad : false,
+					lastRow : &#34;justify&#34;,
+					captions : false,
+					
+					
+				},
+				{  }
+			));
+
+			
+			
+		});
+
+	
+	
+	
+	})(window.HSCGjQuery)
+&lt;/script&gt;</description>
     </item>
     <item>
       <title>Demo Notebook</title>
-      <link>http://localhost:50253/notebooks/posts/post-a/</link>
+      <link>http://localhost:1313/notebooks/posts/post-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/notebooks/posts/post-a/</guid>
+      <guid>http://localhost:1313/notebooks/posts/post-a/</guid>
       <description>I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.</description>
     </item>
     <item>
       <title>N fun fact! Here&#39;s my dog:D </title>
-      <link>http://localhost:50253/dog/</link>
+      <link>http://localhost:1313/dog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/dog/</guid>
+      <guid>http://localhost:1313/dog/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Overview</title>
-      <link>http://localhost:50253/publication/</link>
+      <link>http://localhost:1313/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/publication/</guid>
+      <guid>http://localhost:1313/publication/</guid>
       <description> </description>
     </item>
     <item>
       <title>Research Overview</title>
-      <link>http://localhost:50253/works/publication/</link>
+      <link>http://localhost:1313/works/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/publication/</guid>
+      <guid>http://localhost:1313/works/publication/</guid>
       <description> </description>
     </item>
     <item>
       <title>Skill Overview</title>
-      <link>http://localhost:50253/skills/</link>
+      <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/skills/</guid>
+      <guid>http://localhost:1313/skills/</guid>
       <description> </description>
     </item>
     <item>
       <title>Skill Overview</title>
-      <link>http://localhost:50253/works/skills/</link>
+      <link>http://localhost:1313/works/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/skills/</guid>
+      <guid>http://localhost:1313/works/skills/</guid>
       <description> </description>
     </item>
     <item>
       <title>Summer 2023 Internship | Plano, TX</title>
-      <link>http://localhost:50253/chase/experience2/</link>
+      <link>http://localhost:1313/chase/experience2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/chase/experience2/</guid>
+      <guid>http://localhost:1313/chase/experience2/</guid>
       <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>Summer 2023 Internship | Plano, TX</title>
-      <link>http://localhost:50253/works/chase/experience2/</link>
+      <link>http://localhost:1313/works/chase/experience2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/chase/experience2/</guid>
+      <guid>http://localhost:1313/works/chase/experience2/</guid>
       <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>Summer 2024 Internship | Austin, TX</title>
-      <link>http://localhost:50253/chase/experience1/</link>
+      <link>http://localhost:1313/chase/experience1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/chase/experience1/</guid>
+      <guid>http://localhost:1313/chase/experience1/</guid>
       <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>Summer 2024 Internship | Austin, TX</title>
-      <link>http://localhost:50253/works/chase/experience1/</link>
+      <link>http://localhost:1313/works/chase/experience1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/chase/experience1/</guid>
+      <guid>http://localhost:1313/works/chase/experience1/</guid>
       <description>This internship experience was with the JPMC SEP Program</description>
     </item>
     <item>
       <title>Testing this method </title>
-      <link>http://localhost:50253/notebooks/post/post/</link>
+      <link>http://localhost:1313/notebooks/post/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/notebooks/post/post/</guid>
-      <description>Here is an example of how you can use the ipynb shortcode in your markdown:
-Replace &amp;quot;path/to/notebook.ipynb&amp;quot; with the actual path to your notebook file.</description>
+      <guid>http://localhost:1313/notebooks/post/post/</guid>
+      <description>&lt;p&gt;Here is an example of how you can use the &lt;code&gt;ipynb&lt;/code&gt; shortcode in your markdown:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Replace &lt;code&gt;&amp;quot;path/to/notebook.ipynb&amp;quot;&lt;/code&gt; with the actual path to your notebook file.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

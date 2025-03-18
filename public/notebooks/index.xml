@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notebooks on Thomas&#39; Portfolio</title>
-    <link>http://localhost:50253/notebooks/</link>
+    <link>http://localhost:1313/notebooks/</link>
     <description>Recent content in Notebooks on Thomas&#39; Portfolio</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:50253/notebooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo Notebook</title>
-      <link>http://localhost:50253/notebooks/posts/post-a/</link>
+      <link>http://localhost:1313/notebooks/posts/post-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/notebooks/posts/post-a/</guid>
+      <guid>http://localhost:1313/notebooks/posts/post-a/</guid>
       <description>I wanted to start integrating jupyter notebooks into github and this website, so I started with this post.</description>
     </item>
     <item>
       <title>Testing this method </title>
-      <link>http://localhost:50253/notebooks/post/post/</link>
+      <link>http://localhost:1313/notebooks/post/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/notebooks/post/post/</guid>
-      <description>Here is an example of how you can use the ipynb shortcode in your markdown:
-Replace &amp;quot;path/to/notebook.ipynb&amp;quot; with the actual path to your notebook file.</description>
+      <guid>http://localhost:1313/notebooks/post/post/</guid>
+      <description>&lt;p&gt;Here is an example of how you can use the &lt;code&gt;ipynb&lt;/code&gt; shortcode in your markdown:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Replace &lt;code&gt;&amp;quot;path/to/notebook.ipynb&amp;quot;&lt;/code&gt; with the actual path to your notebook file.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My works on Thomas&#39; Portfolio</title>
-    <link>http://localhost:50253/works/</link>
+    <link>http://localhost:1313/works/</link>
     <description>Recent content in My works on Thomas&#39; Portfolio</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:50253/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Overview</title>
-      <link>http://localhost:50253/works/publication/</link>
+      <link>http://localhost:1313/works/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/publication/</guid>
+      <guid>http://localhost:1313/works/publication/</guid>
       <description> </description>
     </item>
     <item>
       <title>Skill Overview</title>
-      <link>http://localhost:50253/works/skills/</link>
+      <link>http://localhost:1313/works/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/works/skills/</guid>
+      <guid>http://localhost:1313/works/skills/</guid>
       <description> </description>
     </item>
   </channel>

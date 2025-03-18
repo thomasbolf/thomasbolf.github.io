@@ -29,7 +29,7 @@ summary: " "
     <h2>Back-end</h2> 
     <div class="skills-grid"> 
         <div class="skill-item">
-            <span class="skill-item-text">I work on Python for data science projects and regularly when I want to write something in, maybe pseudo-pseudo code :D
+            <span class="skill-item-text"> I have used Python for my competitive programming class and for some personal projects. 
             </span> 
             Python 
         <!-- <span class="skill-item-text">Tooltip text</span> -->
@@ -133,6 +133,7 @@ summary: " "
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
+  padding: 10px;
 }
   
 .skill-item:hover {
@@ -169,9 +170,11 @@ summary: " "
   border-width: 5px;
   border-style: solid;
   border-color: transparent black transparent transparent;
+  padding: 10px;
   }
     .skill-item:hover .skill-item-text {
     visibility: visible;
+    padding: 10px;
   }
  
 

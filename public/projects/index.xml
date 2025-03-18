@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recent Projects on Thomas&#39; Portfolio</title>
-    <link>http://localhost:50253/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Recent Projects on Thomas&#39; Portfolio</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:50253/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord File System</title>
-      <link>http://localhost:50253/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project2/</guid>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>This project is an attempt to create a file system and file management system in a discord server using a discord bot</description>
     </item>
     <item>
       <title>Visualizing PetFinder</title>
-      <link>http://localhost:50253/projects/project3/</link>
+      <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project3/</guid>
+      <guid>http://localhost:1313/projects/project3/</guid>
       <description>This project is a data visualization web application for pets in Texas found on petfinder.com</description>
     </item>
     <item>
       <title>Theorem of the Day</title>
-      <link>http://localhost:50253/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50253/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>This project created a discord bot that sends a theorem every day to a discord channel.</description>
     </item>
   </channel>
