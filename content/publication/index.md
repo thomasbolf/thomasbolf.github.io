@@ -31,7 +31,7 @@ I conducted a research project in collaboration with the TAMU NeuroErgonomics la
 
 
 ![me](./image.png)
-^^ fNirs!
+<!-- ^^ fNirs! -->
 
 ##### Helpful Links
 + [Paper published to Sage ](https://journals.sagepub.com/doi/full/10.1177/21695067231194337)
